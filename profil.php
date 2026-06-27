@@ -22,10 +22,10 @@
 </table>
   <h2>Profile Saya</h2>
     <ul>
-        <li><strong>Nama:</strong> Rangga Ichsani Hadi Syahputra </li>
-        <li><strong>NIM:</strong> 13182420095</li>
+        <li><strong>Nama:</strong> Muhammad Hussein </li>
+        <li><strong>NIM:</strong> 13182420120</li>
         <li><strong>Kampus:</strong> Universitas Muhammadiyah Semarang</li>
-        <li><strong>Keahlian:</strong> Backend Developer, Hardware</li>
+        <li><strong>Keahlian:</strong> Backend Developer, Cybersecurity</li>
     </ul>
 </body>
 </html>

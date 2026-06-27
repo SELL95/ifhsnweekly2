@@ -26,8 +26,8 @@
         Kamu tertarik dan ingin menghubungi saya?
         Jangan ragu untuk menghubungi saya melalui email atau nomor telepon yang tertera di bawah ini
         Saya akan dengan senang hati menjawab pertanyaan atau berdiskusi lebih lanjut tentang topik apa pun yang kamu minati.
-        hubungi saya dengan email : syahputrarangga640@gmail.com <br>
-        atau dengan nomor telepon : 085161532137
+        hubungi saya dengan email : muhannadhussein24@gmail.com <br>
+        atau dengan nomor telepon : 085176967007
     </p>
 </body>
 </html>
